@@ -23,9 +23,19 @@ The code is based on Code Example 3-A of *Deep Learning Crash Course*
 
 ## Getting started
 
-Open `classifying_malaria.ipynb` locally or in Colab/Kaggle. On Colab/Kaggle, install Deeplay first:
+Open `classifying_malaria.ipynb` locally or in Colab/Kaggle.
+
+On **Colab/Kaggle**, install Deeplay first:
 
     pip install deeplay
+
+For **local** execution, it is recommended to set up a new environment with the following modules:
+
+    conda create -n NN -c conda-forge pytorch torchvision torchmetrics matplotlib opencv pillow "ipykernel<7" -y
+    conda activate NN
+    python -m pip install deeplay
+
+Note: Always install packages through Conda before using pip. If you need to install additional Conda packages after using `pip`, it is generally best to delete the environment and start from scratch to avoid dependency conflicts.
 
 The dataset downloads automatically on first run.
 
