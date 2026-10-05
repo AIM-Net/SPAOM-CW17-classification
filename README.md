@@ -2,11 +2,11 @@
 
 **Community workshop CW17 — [SPAOM 2026](https://spaom2026.org)**
 
-SPAOM 2026 workshop: classifying malaria-infected cells with dense and convolutional neural networks in PyTorch/Deeplay, from training to Grad-CAM.
-
 Material for the community workshop at **SPAOM 2026** (6–9 October 2026).
 
 Instructors: Jose Requejo-Isidro (CNB-CSIC) and Carlo Manzo (UVic-UCC).
+
+## Workshop overview
 
 The notebook trains a dense neural network and a convolutional neural network to classify
 blood-smear cell images as parasitized or uninfected, using the NIH malaria dataset
