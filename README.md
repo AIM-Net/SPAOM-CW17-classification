@@ -29,7 +29,7 @@ Open `classifying_malaria.ipynb` locally or in Colab/Kaggle. On Colab/Kaggle, in
 
 The dataset downloads automatically on first run.
 
-## Acknowledgment
+## Acknowledgments
 
 This community workshop is part of the activities of AIM-Net (RED2024-153844-T, funded by MICIU/AEI/10.13039/501100011033).
 
