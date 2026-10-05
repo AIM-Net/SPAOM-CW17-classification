@@ -1,0 +1,37 @@
+# Dataset (downloaded automatically by the notebook)
+blood_smears_dataset/
+cell_images.zip
+
+# Training logs and checkpoints (PyTorch Lightning / Deeplay)
+lightning_logs/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+
+# Environment and secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
