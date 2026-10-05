@@ -1,7 +1,8 @@
 # SPAOM-CW17: Hands-on Introduction to Bioimage Classification with CNNs
 
-SPAOM 2026 workshop: classifying malaria-infected cells with dense and convolutional neural networks in PyTorch/Deeplay, from training to Grad-CAM.
+**Community workshop CW17 — [SPAOM 2026](https://spaom2026.org)**
 
+SPAOM 2026 workshop: classifying malaria-infected cells with dense and convolutional neural networks in PyTorch/Deeplay, from training to Grad-CAM.
 
 Material for the community workshop at **SPAOM 2026** (6–9 October 2026).
 Instructors: Jose Requejo-Isidro (CNB-CSIC) and Carlo Manzo (UVic-UCC).
@@ -30,3 +31,7 @@ The dataset downloads automatically on first run.
 ## Acknowledgment
 
 This community workshop is part of the activities of AIM-Net (RED2024-153844-T, funded by MICIU/AEI/10.13039/501100011033).
+
+## License
+
+The course materials are released under the MIT License.
